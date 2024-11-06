@@ -5,7 +5,7 @@
         <p>A powerful membership management system for clubs, built with Python and OOP principles.</p>
     </header>
 
-    <nav>
+<nav>
         <ul>
             <li><a href="#features">Features</a></li>
             <li><a href="#installation">Installation</a></li>
@@ -14,8 +14,7 @@
             <li><a href="#license">License</a></li>
         </ul>
     </nav>
-
-    <main>
+<main>
         <section id="features">
             <h2>Features</h2>
             <ul>
@@ -28,7 +27,7 @@
             </ul>
         </section>
 
-        <section id="installation">
+<section id="installation">
             <h2>Installation</h2>
             <p>To install and run the project, follow these steps:</p>
             <ol>
@@ -39,7 +38,7 @@
             </ol>
         </section>
 
-        <section id="technology">
+<section id="technology">
             <h2>Technology</h2>
             <p>This project is built using:</p>
             <ul>
@@ -48,7 +47,7 @@
             </ul>
         </section>
 
-        <section id="usage">
+<section id="usage">
             <h2>Usage</h2>
             <p>After installing, follow these steps to use the application:</p>
             <ul>
@@ -58,13 +57,13 @@
             </ul>
         </section>
 
-        <section id="license">
+<section id="license">
             <h2>License</h2>
             <p>This project is licensed under the MIT License.</p>
         </section>
     </main>
 
-    <footer>
+<footer>
         <p>&copy; 2024 MembershipClub | All Rights Reserved</p>
         <p><a href="#top">Back to top</a></p>
     </footer>
